@@ -1,0 +1,3 @@
+/home/jack/cpp-workspace/Stack/build/CMakeFiles/rebuild_cache.dir
+/home/jack/cpp-workspace/Stack/build/CMakeFiles/stack.dir
+/home/jack/cpp-workspace/Stack/build/CMakeFiles/edit_cache.dir
